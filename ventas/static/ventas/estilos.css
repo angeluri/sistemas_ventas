@@ -1,0 +1,29 @@
+body {
+    background-color: #eef1f5;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.2rem;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.card-header {
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+table th, table td {
+    vertical-align: middle;
+}
+
+.footer {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+}
